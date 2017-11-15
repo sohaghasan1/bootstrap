@@ -1,0 +1,19 @@
+@media (max-width: 767px) { ... }
+@media (min-width: 768px) and (max-width:991px) { 
+    .ad{
+        margin-top: 20px;
+    } 
+    .article_feature{
+    min-height: 150px;
+    background: #CFE2FB;
+    margin-top: 15px;
+}
+.artcle_listing{
+    min-height: 150px;
+    background: #CFE2FB;
+    margin-top: 15px;
+}
+    
+}
+@media (min-width:992px) and (max-width:1199px) { ... }
+@media (min-width: 1200px) { ... }

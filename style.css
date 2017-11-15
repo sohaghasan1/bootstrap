@@ -1,0 +1,104 @@
+
+body{
+    text-align: center;
+}
+header{
+    min-height: 100px;
+    background-color: #9FC5F8;
+    padding: 10px;
+}
+.brand{
+    min-height: 70px;
+    background: #CFE2FB;
+    margin-top: 15px;
+    
+}
+.global-nav{
+    min-height: 70px;
+    background: #CFE2FB;
+    margin-top: 15px;
+    
+    
+}
+.tools{
+    min-height: 70px;
+    background: #CFE2FB;
+    margin-top: 15px;
+    
+}
+.hero_content{
+    min-height: 150px;
+    background-color: #9FC5F8;
+    margin-top: 20px;
+    margin-bottom: 20px;
+     
+    
+}
+.hero_feature{
+    min-height: 120px;
+    background: #CFE2FB;
+    margin-top: 15px;
+   
+}
+.call_to_action{
+    min-height: 120px;
+    background: #CFE2FB;
+    margin-top: 15px;
+    
+}
+    
+.ad{
+    min-height: 150px;
+    background-color: #6FA8DC;
+    margin-top: 20px;
+}
+
+
+.body_content{
+    min-height: 400px;
+    background-color: #9FC5F8;
+    
+}
+.side_bar{
+    min-height: 400px;
+    background-color: #9FC5F8;
+    padding: 20px;
+   
+}
+.side_bar_content{
+    width: 100%;
+   
+    min-height: 350px;
+    background: #CFE2FB;
+    
+}
+.article_feature{
+    min-height: 370px;
+    background: #CFE2FB;
+    margin-top: 15px;
+}
+.artcle_listing{
+    min-height: 370px;
+    background: #CFE2FB;
+    margin-top: 25px;
+}
+
+
+
+
+#footer{
+    min-height: 70px;
+    background-color: #9FC5F8;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
